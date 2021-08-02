@@ -10,7 +10,7 @@
 - chore: ビルド、補助ツール、ライブラリ関連
 
 ## branch-rules
-- 新しい機能のブランチの場合 feat-(issue_number) 例 (feat-1-create-usepage)
+- 新しい機能のブランチの場合 feat-(issue_number) 例 (feat-1-create-userpage)
 - バグの修正 fix-(issue_number)
 - ドキュメントのみの変更 docs-(issue_number)
 - 空白、フォーマット、セミコロン追加など style-(issue_number)
