@@ -8,5 +8,5 @@
 - perf: パフォーマンス向上関連
 - test: テスト関連
 - chore: ビルド、補助ツール、ライブラリ関連
--- 参考(https://qiita.com/konatsu_p/items/dfe199ebe3a7d2010b3e)
+- 参考(https://qiita.com/konatsu_p/items/dfe199ebe3a7d2010b3e)
 ## branch-rules
