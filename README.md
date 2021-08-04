@@ -18,3 +18,6 @@
 - パフォーマンス向上関連 perf-(issue_number)
 - テスト関連 test-(issue_number)
 - ビルド、補助ツール、ライブラリ関連 chore-(issue_number)
+
+## TailwindCSS
+-cheetsheet (https://nerdcave.com/tailwind-cheat-sheet)
