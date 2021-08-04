@@ -20,4 +20,4 @@
 - ビルド、補助ツール、ライブラリ関連 chore-(issue_number)
 
 ## TailwindCSS
--cheetsheet (https://nerdcave.com/tailwind-cheat-sheet)
+- cheetsheet (https://nerdcave.com/tailwind-cheat-sheet)
