@@ -21,3 +21,8 @@
 
 ## TailwindCSS
 - cheetsheet (https://nerdcave.com/tailwind-cheat-sheet)
+
+## Atomic Design
+-単一責任の原則
+-- Organisms以上の単位のコンポーネントは「機能としての役割」は持たず「レイアウトとしての役割」を持つ
+- 
