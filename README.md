@@ -22,7 +22,7 @@
 ## TailwindCSS
 - cheetsheet (https://nerdcave.com/tailwind-cheat-sheet)
 
-## Atomic Design
+## Atomic Design-rules
 - Organisms以上の単位のコンポーネントは「機能としての役割」は持たず「レイアウトとしての役割」を持つ (単一責任の原則)
 - 「子コンポーネントは親コンポーネントの"レイアウトのスタイル"を知ってはならない」,「親コンポーネントは子コンポーネントの"見た目のスタイル"を知ってはならない」(スタイルクローズドの原則)
 - 
