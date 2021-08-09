@@ -8,7 +8,7 @@
 - perf: パフォーマンス向上関連
 - test: テスト関連
 - chore: ビルド、補助ツール、ライブラリ関連
-- ※コミットログにはwhyを書く
+※コミットログにはwhyを書く
 
 ## branch-rules
 - 新しい機能のブランチの場合 feat-(issue_number) 例 (feat-1-create-userpage)
